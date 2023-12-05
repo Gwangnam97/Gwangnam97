@@ -1,32 +1,44 @@
-#### Hi there 👋
+#### Hello 👋 I'm Gwang Hyeon Nam form korea, 
+
+<p dir="auto"><strong>About me</strong></p>
+
+<ul dir="auto">
+<li>
+<p dir="auto">💼 currently job-seeking with a passion for data analysis and crawling.</a></p>
+</li>
+<li>
+<p dir="auto">📈 Proficient in <strong>Python</strong> and have a basic understanding of Linux.</p>
+</li>
+<li>
+<p dir="auto">❤️ I love crawling with Python, and enjoy new experiences</p>
+</li>
+<li>
+<p dir="auto">💬 I possess a strong will to solve problems and contribute to society using data. Thank you for visiting my profile!</a></p>
+</li>
+</ul>
+
 
 
 #### 🛠️ 기술 스택(Technical Skills)
 
-<ul dir="auto">
-<li>
-<p dir="auto">Programming Languages: Python 🐍 , SQL 🛢️</a></p>
-</li>
-<li>
-<p dir="auto">Data Analysis Libraries: <strong>Pandas 🐼</strong>, NumPy 🔢, Matplotlib 📉, Seaborn 📊</p>
-</li>
-<li>
-<p dir="auto">Machine Learning Libraries: Scikit-learn 🤖, TensorFlow 🧠, Keras 🧪</p>
-</li>
-<li>
-<p dir="auto">Operating Systems: Linux 🐧, Windows 🪟</a></p>
-</li>
+<ul class="sc-fPgHrj ifxoyB" style="list-style-position: outside; list-style-type: disc; padding-left: 20px; margin-bottom: 10px;">
+<li><strong node="[object Object]" style="font-weight: 600; margin-top: 0px;">Python</strong> 🐍</li>
+<li><strong node="[object Object]" style="font-weight: 600; margin-top: 0px;">MySQL</strong> 🐬</li>
+<li><strong node="[object Object]" style="font-weight: 600; margin-top: 0px;"></strong>Pandas 🐼</li>
+<li><strong node="[object Object]" style="font-weight: 600; margin-top: 0px;">NumPy</strong> 🔢</li>
+<li><strong node="[object Object]" style="font-weight: 600; margin-top: 0px;">Matplotlib</strong> 📉</li>
+<li><strong node="[object Object]" style="font-weight: 600; margin-top: 0px;">Seaborn</strong> 📊</li>
+<li><strong node="[object Object]" style="font-weight: 600; margin-top: 0px;">Scikit-learn</strong> 🤖</li>
+<li><strong node="[object Object]" style="font-weight: 600; margin-top: 0px;">TensorFlow</strong> 🧠</li>
+<li><strong node="[object Object]" style="font-weight: 600; margin-top: 0px;">Keras</strong> 🧪</li>
+<li><strong node="[object Object]" style="font-weight: 600; margin-top: 0px;">Linux</strong> 🐧</li>
+<li><strong node="[object Object]" style="font-weight: 600; margin-top: 0px;">GoormIDE Cloud</strong> ☁️</li>
+<li><strong node="[object Object]" style="font-weight: 600; margin-top: 0px;">Kakao ChatBot</strong> 🤖</li>
+<li><strong node="[object Object]" style="font-weight: 600; margin-top: 0px;">FastAPI</strong> ⚡</li>
+
 </ul>
 
-<p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code></p>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwangnam97&theme=dark&show_icons=true)
-
 
 <!--
 **Gwangnam97/Gwangnam97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
